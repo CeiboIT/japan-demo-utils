@@ -1,0 +1,31 @@
+{
+  "name": "japan-demo-utils",
+  "version": "0.1.0",
+  "description": "Server utils for japan-demo-ionic",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CeiboIT/japan-demo-utils"
+  },
+  "keywords": [
+    "S3",
+    "Server",
+    "japan-demo-utils",
+    "Utils"
+  ],
+  "author": "CeiboIT",
+  "license": "ISC",
+  "homepage": "https://github.com/CeiboIT/japan-demo-utils",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "aws-sign": "^0.1.1",
+    "cloudinary": "^1.1.2",
+    "firebase": "^2.2.0",
+    "hapi": "^6.2.0",
+    "mandrill-api": "^1.0.41",
+    "s3-policy": "^0.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.x"
+  }
+}
