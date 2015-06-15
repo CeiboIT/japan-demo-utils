@@ -1,5 +1,4 @@
 var Hapi = require('hapi');
-//var Joi = require('joi');
 
 var internals = {};
 
