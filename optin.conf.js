@@ -10,8 +10,8 @@ module.exports = {
 		template : 'japan-demo-register',
 	},
 	cloudinary: {
-        cloud_name: 'ceiboit',
-        api_key: '381228771352367',
-        api_secret: 'qp3Z3dVxuSQWIR2TmY_ica-jYio'
-    }
+		cloud_name: 'ceiboit',
+		api_key: '381228771352367',
+		api_secret: 'qp3Z3dVxuSQWIR2TmY_ica-jYio'
+	}
 };
